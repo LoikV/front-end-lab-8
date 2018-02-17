@@ -1,0 +1,1 @@
+let isPrime=(number) => (number > 2 && number % 2 !== 0) ? true : false;
